@@ -1,4 +1,5 @@
 <?php
+namespace vladimirnetworks\htmlparser;
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/
  * Additional projects: http://sourceforge.net/projects/debugobject/
@@ -45,7 +46,7 @@ defined('DEFAULT_SPAN_TEXT') || define('DEFAULT_SPAN_TEXT', ' ');
 defined('MAX_FILE_SIZE') || define('MAX_FILE_SIZE', 600000);
 define('HDOM_SMARTY_AS_TEXT', 1);
 
-namespace vladimirnetworks\htmlparser;
+
 
 class shd {
 
