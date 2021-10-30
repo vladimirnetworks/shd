@@ -1,0 +1,19 @@
+{
+    "name": "vladimirnetworks/shd",
+    "description": "https://simplehtmldom.sourceforge.io/",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "vladimirnetworks\\htmlparser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vladimirnetworks",
+            "email": "vladimirnetworks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"php": ">=5.3.0"}
+}
